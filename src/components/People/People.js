@@ -2,8 +2,6 @@ import React from "react";
 import Rating from "react-rating";
 import "./People.css";
 const People = (props) => {
-  //   console.log(props);
-  //   const { people } = props;
   const { id, name, age, country, img, popularity, role, salary } =
     props.people;
   return (
