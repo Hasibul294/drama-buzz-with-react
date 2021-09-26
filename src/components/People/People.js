@@ -1,7 +1,7 @@
 import React from "react";
 import "./People.css";
 const People = (props) => {
-  console.log(props);
+  //   console.log(props);
   //   const { people } = props;
   const { id, name, age, country, img, popularity, role, salary } =
     props.people;
@@ -16,7 +16,9 @@ const People = (props) => {
           <p>Country: {country}</p>
           <p>Popularity: {popularity}</p>
           <h5>Salary: ${salary}</h5>
-          <button>HIRE ME</button>
+          <button onClick={() => props.handleHireButton(id)}>
+            HIRE ME <i className="fas fa-shopping-cart"></i>
+          </button>
         </div>
       </div>
     </div>
