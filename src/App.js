@@ -1,15 +1,12 @@
 import "./App.css";
-import { useEffect } from "react";
+import Header from "./components/Header/Header";
+import Peoples from "./components/Peoples/Peoples";
 
 function App() {
-  useEffect(() => {
-    fetch("./data.JSON")
-      .then((res) => res.json())
-      .then((data) => console.log(data));
-  }, []);
   return (
     <div className="App">
-      <h2>this is React assignment</h2>
+      <Header></Header>
+      <Peoples></Peoples>
     </div>
   );
 }

@@ -1,0 +1,11 @@
+.header{
+    background-color: gray;
+    color: rgb(66, 230, 66);
+    font-size: large;
+    font-weight: 500;
+    line-height: 30px;
+    padding: 10px;
+}
+.header h2,small{
+    margin: 0px;
+}

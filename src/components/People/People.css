@@ -1,0 +1,34 @@
+.people-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 3px;
+    grid-row-gap: 10px;
+    padding: 5px 3px;
+    margin-left: 5px;
+}
+.people-body{
+    padding: 5px;
+    display: flex;
+    border: 1px solid rgb(66, 230, 66);
+    border-radius: 10px;
+    align-items: center;
+}
+.people-body img{
+    width: 120px;
+    height: 250px;
+}
+.people-title{
+    width: 200px;
+}
+.people-title h3,p,h5{
+    margin: 5px;
+}
+.people-title button{
+    background-color: limegreen;
+    color: white;
+    font-size: large;
+    margin: 10px 0;
+    padding: 5px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}

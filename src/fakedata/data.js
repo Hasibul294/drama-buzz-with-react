@@ -1,5 +1,6 @@
 const drama = [
   {
+    id: 1001,
     name: "Jhankar Mahbub",
     age: 35,
     role: "Director",
@@ -9,6 +10,7 @@ const drama = [
     popularity: 4.5,
   },
   {
+    id: 1002,
     name: "Salauddin Lavlu",
     age: 50,
     role: "Senior Director",
@@ -18,6 +20,7 @@ const drama = [
     popularity: 4.6,
   },
   {
+    id: 1003,
     name: "Chanchal Chowdhury",
     age: 47,
     role: "actor",
@@ -27,6 +30,7 @@ const drama = [
     popularity: 4.9,
   },
   {
+    id: 1004,
     name: "Mosharraf Karim",
     age: 49,
     role: "actor",
@@ -36,6 +40,7 @@ const drama = [
     popularity: 4.9,
   },
   {
+    id: 1005,
     name: "Aupee Karim",
     age: 42,
     role: "Film actress",
@@ -45,6 +50,7 @@ const drama = [
     popularity: 5.0,
   },
   {
+    id: 1006,
     name: "Ziaul Hoque Polash",
     age: 28,
     role: "actor",
@@ -54,6 +60,7 @@ const drama = [
     popularity: 4.4,
   },
   {
+    id: 1007,
     name: "Afran Nisho",
     age: 40,
     role: "actor",
@@ -63,6 +70,7 @@ const drama = [
     popularity: 5.0,
   },
   {
+    id: 1008,
     name: "Jaya Ahsan",
     age: 38,
     role: "actress",
@@ -72,6 +80,7 @@ const drama = [
     popularity: 4.8,
   },
   {
+    id: 1009,
     name: "Tahsan Rahman Khan",
     age: 41,
     role: "Singer, Actor, Teacher",
@@ -81,6 +90,7 @@ const drama = [
     popularity: 4.5,
   },
   {
+    id: 1010,
     name: "Mehazabien Chowdhury",
     age: 30,
     role: "model",
@@ -90,6 +100,7 @@ const drama = [
     popularity: 4.7,
   },
   {
+    id: 1011,
     name: "Faruque Ahmed",
     age: 45,
     role: "Actor",
@@ -99,6 +110,7 @@ const drama = [
     popularity: 4.2,
   },
   {
+    id: 1012,
     name: "Hasan Masood",
     age: 58,
     role: "Actor, journalist",

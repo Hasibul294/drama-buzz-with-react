@@ -1,0 +1,8 @@
+.main-container{
+    background-color: azure;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.cart-container{
+    border-left: 1px solid gray;
+}
