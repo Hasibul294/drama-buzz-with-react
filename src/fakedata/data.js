@@ -5,7 +5,7 @@ const drama = [
     age: 35,
     role: "Director",
     country: "Bangladesh",
-    img: "https://tonmoyac.github.io/e-school/images/Photos/teacher.png",
+    img: "https://images.gr-assets.com/authors/1456905354p8/15050617.jpg",
     salary: 1000000,
     popularity: 4.5,
   },
@@ -17,7 +17,7 @@ const drama = [
     country: "Bangladesh",
     img: "https://upload.wikimedia.org/wikipedia/commons/9/91/Salauddin_Lavlu_01.jpg",
     salary: 1500000,
-    popularity: 4.6,
+    popularity: 4.7,
   },
   {
     id: 1003,
@@ -25,9 +25,9 @@ const drama = [
     age: 47,
     role: "actor",
     country: "Bangladesh",
-    img: "https://media-eng.dhakatribune.com/uploads/2017/04/1474821718_3.jpg",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chanchal_Chowdhury_%282%29.jpg/1200px-Chanchal_Chowdhury_%282%29.jpg",
     salary: 800000,
-    popularity: 4.9,
+    popularity: 5.0,
   },
   {
     id: 1004,
@@ -47,7 +47,7 @@ const drama = [
     country: "Bangladesh",
     img: "https://haircutsz.com/wp-content/gallery/opi-karim/opi-karim-13.jpg",
     salary: 250000,
-    popularity: 5.0,
+    popularity: 4.0,
   },
   {
     id: 1006,
@@ -57,7 +57,7 @@ const drama = [
     country: "Bangladesh",
     img: "https://pbs.twimg.com/profile_images/1388578617785946112/6tSuWl4h_400x400.jpg",
     salary: 100000,
-    popularity: 4.4,
+    popularity: 3.8,
   },
   {
     id: 1007,
@@ -67,7 +67,7 @@ const drama = [
     country: "Bangladesh",
     img: "https://static-01.daraz.com.bd/p/9e9aa7dfbc157c166c0a9580fba7bc2a.jpg",
     salary: 850000,
-    popularity: 5.0,
+    popularity: 4.8,
   },
   {
     id: 1008,
@@ -77,7 +77,7 @@ const drama = [
     country: "Bangladesh",
     img: "https://starsunfolded.com/wp-content/uploads/2017/08/Joya-Ahsan.jpg",
     salary: 500000,
-    popularity: 4.8,
+    popularity: 2.5,
   },
   {
     id: 1009,
@@ -85,9 +85,9 @@ const drama = [
     age: 41,
     role: "Singer, Actor, Teacher",
     country: "Bangladesh",
-    img: "https://www.daily-sun.com/assets/news_images/2019/11/20/tahsan.jpg",
+    img: "https://i.pinimg.com/originals/8e/c3/28/8ec3280693b986afc22a3ac5896ac3e1.jpg",
     salary: 1000000,
-    popularity: 4.5,
+    popularity: 4.0,
   },
   {
     id: 1010,
@@ -97,7 +97,7 @@ const drama = [
     country: "Bangladesh",
     img: "https://i.pinimg.com/originals/1e/a8/0f/1ea80f0fa59e7c65479623d023be89f1.jpg",
     salary: 300000,
-    popularity: 4.7,
+    popularity: 4.3,
   },
   {
     id: 1011,
@@ -105,9 +105,9 @@ const drama = [
     age: 45,
     role: "Actor",
     country: "Bangladesh",
-    img: "https://www.theindependentbd.com/assets/news_images/Faruk-Ahmed1.jpg",
+    img: "https://m.media-amazon.com/images/M/MV5BNjcyM2UyYmMtYTMwZi00NjM2LThiY2ItZjA1NGM3OGQ1NWUyXkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_.jpg",
     salary: 400000,
-    popularity: 4.2,
+    popularity: 3.7,
   },
   {
     id: 1012,
@@ -117,6 +117,6 @@ const drama = [
     country: "Bangladesh",
     img: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hasan_masood.jpg",
     salary: 300000,
-    popularity: 4.7,
+    popularity: 3.2,
   },
 ];
