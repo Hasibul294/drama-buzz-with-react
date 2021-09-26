@@ -1,4 +1,5 @@
 import React from "react";
+import Rating from "react-rating";
 import "./People.css";
 const People = (props) => {
   //   console.log(props);
@@ -14,7 +15,12 @@ const People = (props) => {
           <p>Age: {age}</p>
           <p>Role: {role}</p>
           <p>Country: {country}</p>
-          <p>Popularity: {popularity}</p>
+          <Rating
+            initialRating={popularity}
+            readonly
+            emptySymbol="far fa-star rating-color"
+            fullSymbol="fas fa-star rating-color"
+          />
           <h5>Salary: ${salary}</h5>
           <button onClick={() => props.handleHireButton(id)}>
             HIRE ME <i className="fas fa-shopping-cart"></i>
